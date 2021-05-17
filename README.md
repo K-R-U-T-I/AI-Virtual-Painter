@@ -1,5 +1,7 @@
 # AI-Virtual-Painter
 
+1st our hand is tracked & got its landmarks. Two fingers are used for selection and one finger for drawing. And the best part is that all of this is done in real-time.
+
 
 ## Libraries used
 
